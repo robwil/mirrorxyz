@@ -1,4 +1,4 @@
-***About the author:** Rob Williams recently participated in [Cooperative to Own the Future](https://courses.newschool.edu/courses/NURP5105/), a [New School](https://www.newschool.edu/) course focused on the intersection of traditional cooperatives, the platform economy and gig work, and nascent technologies like blockchain and DAOs. This blog series is the response to numerous readings and discussions that occurred in that course in the Fall of 2022.*
+***About the author:** Rob Williams recently participated in [Cooperate to Own the Future](https://courses.newschool.edu/courses/NURP5105/), a [New School](https://www.newschool.edu/) course focused on the intersection of traditional cooperatives, the platform economy and gig work, and nascent technologies like blockchain and DAOs. This blog series is the response to numerous readings and discussions that occurred in that course in the Fall of 2022.*
 
 ***Pre-requisites:** These blog posts will assume basic knowledge of [cooperatives](https://www.ica.coop/en/cooperatives/cooperative-identity), [platform cooperatives](https://platform.coop/), and [blockchain technology](https://www.youtube.com/watch?v=kHybf1aC-jE). For those unfamiliar, a brief review of the linked resources is recommended before proceeding. Any more advanced topics discussed in the blog posts will include links to reference resources where readers can learn more if they choose.*
 
@@ -6,6 +6,6 @@ Recent writings by [Austin Robey](https://www.fwb.help/editorial/what-co-ops-and
 
 In this blog post series, I would like to contribute further reflections on what platform cooperatives and blockchain-based decentralized applications ([dApps](https://ethereum.org/en/dapps/#what-are-dapps)) can learn from one another.
 
-1. "The issue of trust" will explore whether trustless blockchain technology is really a good fit for high-trust institutions like cooperatives.
+1. "[The issue of trust](https://mirror.xyz/robwil.eth/Z845RyKTdS-tkoUIpUzf2wVzhiTzBY5qo8kj4uvh0fQ)" explores whether trustless blockchain technology is really a good fit for high-trust institutions like cooperatives.
 2. "Blueprint for cooperative fundraising on the blockchain" will introduce a dual token model that can allow platform cooperatives to access capital without giving up governance.
 3. "Are the cooperative principles achievable with blockchain technology?" will explore whether the 7 cooperative principles are compatible with and feasible to achieve with blockchain technology.
