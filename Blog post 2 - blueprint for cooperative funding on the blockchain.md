@@ -46,7 +46,8 @@ The below table covers the proposal for how each token would be distributed, use
 
 The below diagram shows one example of how this could be structured. The primary idea is to keep the governance token and the fundraising token completely separate, and to prevent trading of the governance token. This would prevent the investors' speculation on the fundraising token from having any effect on the governance token, which can only be earned by using the actual platform product.
 
-![[Dual token idea.png]]
+![image](https://user-images.githubusercontent.com/605546/204151503-4ca7f1be-a393-4e10-bdaa-d01884df9f2e.png)
+
 
 Note: The revenue split above (70 / 10 / 10 / 10) was chosen arbitrarily and is only for example purposes.
 
